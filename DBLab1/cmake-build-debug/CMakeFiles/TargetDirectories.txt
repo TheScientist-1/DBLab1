@@ -1,0 +1,3 @@
+C:/Test/DBLab1/cmake-build-debug/CMakeFiles/File_DB.dir
+C:/Test/DBLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Test/DBLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
